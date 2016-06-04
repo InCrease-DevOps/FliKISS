@@ -8,3 +8,4 @@ build/*
 /flikiss/pages/*
 FliKISS.egg-info/*
 docs/_build/*
+ENV
